@@ -1,0 +1,4 @@
+wg/*.key
+users_db.json
+vpn_bot.py
+*.log
